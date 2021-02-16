@@ -1,3 +1,5 @@
+<meta content='INDEX, FOLLOW' name='robots'/>
+
 ## ВЭБ СТУДИЯ "ТОВ-МЭОД"
 1. СМОТРЕТЬ
 2. ИГРАТЬ

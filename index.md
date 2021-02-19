@@ -1,6 +1,6 @@
 <meta content='INDEX, FOLLOW' name='robots'/>
 
-## ВЭБ СТУДИЯ "ТОВ-МЭОД"
+## ВЕБ СТУДИЯ "ТОВ-МЭОД"
 1. СМОТРЕТЬ
 2. ИГРАТЬ
 3. СЛУШАТЬ
@@ -33,7 +33,7 @@
 </p>
 <p style="text-align: center;">
   <span style="color: #eeeeee; font-family: arial; font-size: large;"
-    ><b>НА МОЙ ВЭБ ПРОЕКТ:</b></span
+    ><b>НА МОЙ ВЕБ ПРОЕКТ:</b></span
   >
 </p>
 <p style="text-align: center;">

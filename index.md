@@ -60,4 +60,4 @@
     width="300px"
   ></iframe>
 </div>
-
+<div id="chatovod263402"></div><p><a href="https://chatovod.ru/">Создай свой чат!</a></p><script type="text/javascript">(function() {var po = document.createElement('script');po.type = 'text/javascript'; po.charset = "UTF-8"; po.async = true;po.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//web-chat-inbrowser.chatovod.ru/widget.js?height=450&divId=chatovod263402';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po, s);})();</script>
